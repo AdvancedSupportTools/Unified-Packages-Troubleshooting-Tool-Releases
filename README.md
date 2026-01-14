@@ -4,10 +4,6 @@
 
 This application is a special project developed by the Distech Controls Advanced Support Team and is NOT a sanctioned or official release by Distech Controls. Please read the DISCLAIMER.txt before using this tool.
 
-Enterprise-grade certificate lifecycle management and network operations for ECLYPSE Building Automation Systems
-
-License: GPL v3 Platform PowerShell OpenSSL Community Tool
-
 ⚠️ Important Notice
 THIS IS A COMMUNITY TOOL - READ BEFORE USE
 

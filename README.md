@@ -10,11 +10,17 @@ THIS IS A COMMUNITY TOOL - READ BEFORE USE
 This application is:
 
 ✅ Freely available for use and redistribution
+
 ✅ Built using only publicly available RESTful API endpoints
+
 ✅ Supported by Advanced Support at their discretion, primarily for Distech SI's, Distributors, OEMs, and partners
+
 ❌ NOT an official Distech Controls product
+
 ❌ NOT covered by Distech Controls warranties or support agreements
+
 ❌ NOT subject to standard Distech Controls release procedures
+
 📋 READ THE FULL DISCLAIMER - Contains important legal information about warranty, liability, and support.
 
 By using this tool, you acknowledge and accept these terms.

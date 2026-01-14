@@ -1,10 +1,10 @@
 **🔔 Unified Package Troubleshooting Tool — Quick Overview**
 
-⚠️ IMPORTANT: COMMUNITY TOOL - NOT AN OFFICIAL DISTECH CONTROLS PRODUCT
+⚠️** IMPORTANT: COMMUNITY TOOL - NOT AN OFFICIAL DISTECH CONTROLS PRODUCT**
 
 This application is a special project developed by the Distech Controls Advanced Support Team and is NOT a sanctioned or official release by Distech Controls. Please read the DISCLAIMER.txt before using this tool.
 
-⚠️ Important Notice
+**⚠️ Important Notice**
 THIS IS A COMMUNITY TOOL - READ BEFORE USE
 
 This application is:
@@ -25,7 +25,9 @@ This application is:
 
 By using this tool, you acknowledge and accept these terms.
 
-🔄 Semantic Versioning Adoption
+
+**🔄 Semantic Versioning Adoption**
+
 Version Numbering: v6.17.399b → v1.0.1 → v1.0.7 → v1.0.8 → v1.0.9 → v1.0.10
 
 We've transitioned from development versioning (6.x.x) to semantic versioning for clearer release communication:
@@ -36,18 +38,22 @@ PATCH (x.x.1): Bug fixes and improvements
 
 ⚠️ v1.0.2 Users: v1.0.2 is a recommended upgrade - fixes critical task creation bug affecting multi-controller operations.
 
+
 **⚠️ Internal Advanced Support Utility**
 Not an official Distech Controls product.
 Designed for Advanced Support Specialists to rapidly validate Unified Package installations across EC‑Net 4 revisions.
 
+
 **🎯 What This Tool Does**
 The Distech Controls Unified Package Troubleshooting Tool (v1.0.2) verifies the presence of all required modules, folders, and assets used by:
+
 
 **Unified Packages**
 Productivity Enhancing Tools
 EC‑Net 4 / EC‑Net Facilities revisions
 
 It ensures that support staff can quickly identify missing components, confirm installation integrity, and export results for documentation.
+
 
 **✨ Key Capabilities**
 ✅ Automated File Presence Validation
@@ -56,16 +62,19 @@ Scans all expected modules for selected pack or All Packs
 Highlights Present (green) / Missing (red) items
 Status bar reports: All files are present or Some files are missing
 
+
 **🎛️ Simple UI Workflow**
 
 Select Root Drive, Revision, and Pack
 Live Modules Path Preview
 Buttons: Check, Clear Results, Export CSV
 
-**📄 Results Grid
-**
+
+**📄 Results Grid**
+
 Columns: Status, Pack, Name, Full Path
 Right‑click: Copy Selected Rows or Copy Full Path
+
 
 **📤 Exporting**
 

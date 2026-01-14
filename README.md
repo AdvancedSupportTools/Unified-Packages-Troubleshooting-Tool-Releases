@@ -21,7 +21,7 @@ This application is:
 
 ❌ NOT subject to standard Distech Controls release procedures
 
-📋 <a href="https://github.com/AdvancedSupportTools/ECLYPSE-Security-Manager-Releases/blob/main/DISCLAIMER.txt">READ THE FULL DISCLAIMER</a> - Contains important legal information about warranty, liability, and support.
+📋 <a href="https://github.com/AdvancedSupportTools/Unified-Packages-Troubleshooting-Tool-Releases/blob/main/disclaimer.txt">READ THE FULL DISCLAIMER</a> - Contains important legal information about warranty, liability, and support.
 
 By using this tool, you acknowledge and accept these terms.
 

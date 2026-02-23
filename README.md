@@ -36,7 +36,7 @@ MAJOR (1.x.x): Breaking changes requiring user action
 MINOR (x.1.x): New features, backward compatible
 PATCH (x.x.1): Bug fixes and improvements
 
-⚠️ v1.0.2 Users: v1.0.2 is a recommended upgrade - fixes critical task creation bug affecting multi-controller operations.
+⚠️ v2.1.0 Users: v2.1.0 is a recommended upgrade - fixes critical task creation bug affecting multi-controller operations.
 
 
 **⚠️ Internal Advanced Support Utility**
@@ -107,7 +107,7 @@ Confirm selected pack is installed
 Use “Copy Full Path(s)” to quickly inspect locations
 
 
-📝 v1.0.2 Release Notes
+📝 v2.1.0 Release Notes
 This release includes:
 
 Fixed scriptblock invocation for path preview
